@@ -1,11 +1,11 @@
-# MVC/RoR/ajax user interface test (should take maximum 3 hours)
+# MVC/RoR/ajax user interface test
 
 ## 1. Create a web page with a simple text box (just one text box)
 
 Use the same size and style text box as the one on this page: https://www.kissmetrics.com/signup/ below where it says Your name:
-Also for this test use the same font and style as the text on this page https://www.kissmetrics.com/signup/ and make sure that the page you design is very neat with nice spacing. The design of the page you do is very important and part of the test! (However the design is very simple, it's just a text box and then text that will appear below)
+Also for this test use the same font and style as the text on this page https://www.kissmetrics.com/signup/ and make sure that the page you design is very neat with nice spacing. The design of the page you do is very important and part of the test! (However the design is very simple, its just a text box and then text that will appear below)
 
-All of the fonts and everything should look exactly like this page (but just the one text box on the page. Don't copy everything on the page! Just copy the text box and put the Words Website URL: before the text box)
+All of the fonts and everything should look exactly like this page (but just the one text box on the page. Dont copy everything on the page! Just copy the text box and put the Words Website URL: before the text box)
 
 ## 2. Validate URL
 
@@ -18,6 +18,3 @@ The URLS will be listed below the form and will appear one above each other, wit
 ## 4. The page will never refresh as everything is via javascript
 
 ## 5. Also the adding to the page will work via javascript, so the page will work even if the person is OFFLINE and all of the above functions will work even if the person is offline. It will try and sync with the database in the background every 15 seconds.
-
-## 6. Upload all of this to a working server and put it on a URL that we can find and look at
-
