@@ -1,6 +1,6 @@
 # MVC/RoR/ajax user interface test
 
-## 1. Create a web page with a simple text box (just one text box)
+## 1. Simple text box (just one text box)
 
 Use the same size and style text box as the one on this page: https://www.kissmetrics.com/signup/ below where it says Your name:
 Also for this test use the same font and style as the text on this page https://www.kissmetrics.com/signup/ and make sure that the page you design is very neat with nice spacing. The design of the page you do is very important and part of the test! (However the design is very simple, its just a text box and then text that will appear below)
@@ -15,6 +15,10 @@ When the person enters a URL, as soon as they have completed the url and hit ent
 
 The URLS will be listed below the form and will appear one above each other, with the most recent urls at the top and will look very neat, and consistent, removing any www. or http from the url. Very important that they look neat and in a good position. Each new URL that is entered will appear above each other with the most recent ones at the top (unless they are a repeat)
 
-## 4. The page will never refresh as everything is via javascript
+## 4. AJAX
 
-## 5. Also the adding to the page will work via javascript, so the page will work even if the person is OFFLINE and all of the above functions will work even if the person is offline. It will try and sync with the database in the background every 15 seconds.
+The page will never refresh as everything is via javascript
+
+## 5. SYNC
+
+Also the adding to the page will work via javascript, so the page will work even if the person is OFFLINE and all of the above functions will work even if the person is offline. It will try and sync with the database in the background every 15 seconds.
