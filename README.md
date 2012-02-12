@@ -1,6 +1,6 @@
 # MVC/RoR/ajax user interface test
 
-Live page: http://ror-mvc-test.heroku.com/
+Rails project but much more work done on client side than server side. Live here: http://ror-mvc-test.heroku.com/
 
 ## 1. Simple text box (just one text box)
 
