@@ -1,8 +1,11 @@
-<%= semantic_form_for @address, :url => addresses_path, :html => { :id => 'input-address' } do |f| -%>
-  <%= f.inputs do -%>
-    <%= f.input :name, :label => "Website URL: " -%>
-  <%- end -%>
+<%= form_for @address, :url => addresses_path, :html => { :id => 'input-address' } do |f| -%>
+  <%= label_tag :fake_name, "Website URL: " -%>
+  <%= text_field_tag :fake_name, '', :id => "address_name" -%>
+
+  <div id="address_list">
+    <%- @addresses.each do |add| -%>
+      <div class="address"><%= link_to add.name, "http://" + add.name -%></div>
+    <%- end -%>
+  </div>
 <%- end -%>
 
-<div id="address_list">
-</div>

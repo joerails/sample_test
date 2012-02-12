@@ -1,0 +1,13 @@
+<div id="flash">
+  <%- flash.each do |key, msg| -%>
+    <div id="<%= key.to_s -%>-alert" class="<%= key.to_s -%>" data-alert="alert">
+      <%= msg -%>
+    </div>
+
+    <script type="text/javascript">
+      $('#<%= key.to_s + "-alert" %>').css('display', 'none');
+      $('#<%= key.to_s + "-alert" %>').slideDown().delay(3000).slideUp();
+    </script>
+  <%- end -%>
+</div>
+
