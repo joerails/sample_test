@@ -1,5 +1,7 @@
 # MVC/RoR/ajax user interface test
 
+Live page: http://ror-mvc-test.heroku.com/
+
 ## 1. Simple text box (just one text box)
 
 Use the same size and style text box as the one on this page: https://www.kissmetrics.com/signup/ below where it says Your name:
