@@ -4,7 +4,7 @@
 
   <div id="address_list">
     <%- @addresses.each do |add| -%>
-      <div class="address"><%= link_to add.name, "http://" + add.name -%></div>
+      <div class="address"><%= link_to add.name, "http://" + add.name, :target => "_blank" -%></div>
     <%- end -%>
   </div>
 <%- end -%>
