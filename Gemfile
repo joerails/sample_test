@@ -6,8 +6,7 @@ gem 'jquery-rails'
 
 gem 'sqlite3'
 gem 'formtastic'
-gem 'validate_url'
-gem 'delayed_job_active_record'
+gem 'whenever', :require => false
 
 group :development do
   gem 'heroku'

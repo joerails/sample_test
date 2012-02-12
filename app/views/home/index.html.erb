@@ -1,0 +1,8 @@
+<%= semantic_form_for @address, :url => addresses_path, :html => { :id => 'input-address' } do |f| -%>
+  <%= f.inputs do -%>
+    <%= f.input :name, :label => "Website URL: " -%>
+  <%- end -%>
+<%- end -%>
+
+<div id="address_list">
+</div>

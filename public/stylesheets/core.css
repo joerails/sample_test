@@ -1,0 +1,9 @@
+#address_name {
+}
+
+#address_name.error {
+  border: 1px solid red;
+}
+
+.address {
+}
