@@ -83,9 +83,10 @@ Core = function() {
   };
 
   var removePath = function(inputURL) {
-    for (var i=0;i<inputURL.length-1;i++) {
+    for (var i=0;i<inputURL.length;i++) {
       if (inputURL[i] == '/' && inputURL[i-1] != '/' && inputURL[i+1] != '/') {
         inputURL = inputURL.substr(0, i);
+        console.log(inputURL);
         break;
       }
     }
