@@ -1,21 +1,22 @@
+
 body {
-  background-color: #4B7399;
+  background-color: #333333;
   font-family: 'Helvetica Neue','HelveticaNeue',helvetica,arial,sans-serif;
 }
 
 #container {
-  background-color: #fff;
-  width: 75%;
+  background-color: #FFFFF0;
+  width: 40%;
   margin: 0 auto;
-  background-color: #FFF;
-  padding: 20px 40px;
-  border: solid 1px black;
-  margin-top: 20px;
+  
+  padding: 10px 20px;
+  border: none;
+  margin-top: 90px;
   text-align: center;
 }
 
 form label {
-  color: #5C5C5C;
+  color: #BDBDBF;
   display: inline-block;
   font-size: 14px;
   font-weight: bold;
@@ -28,8 +29,8 @@ form input[type=text] {
   border-radius: 2px 2px 2px 2px;
   color: #5C5C5C;
   font-size: 13px;
-  padding: 9px;
-  width: 462px;
+  padding: 12px;
+  width: 260px;
 }
 
 #address_name.error {
@@ -41,10 +42,12 @@ form input[type=text] {
   width: 475px;
   padding: 10px;
   text-align: center;
+
+   
 }
 
 .address {
-  color: #999;
+  color: #aaa;
   font-weight: normal;
   font-size: 15px;
   margin-bottom: 5px;
@@ -52,15 +55,16 @@ form input[type=text] {
 
 #flash {
   height: 60px;
+  width: 35%;
 }
 
 #flash .success {
   border: 1px solid black;
   color: #fff;
   padding: 5px 2px;
-  background: green;
+  background: blue;
   margin-bottom: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 #footer {

@@ -1,4 +1,4 @@
-RorMvcTest::Application.routes.draw do
+SampleTest::Application.routes.draw do
   get "home/index"
 
   resources :addresses

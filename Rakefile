@@ -4,4 +4,4 @@
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
 
-RorMvcTest::Application.load_tasks
+SampleTest::Application.load_tasks
