@@ -1,0 +1,77 @@
+commit 1af34c4a7336daec273abb61822270c90d53d306
+Author: joerails <joerails2012@gmail.com>
+Date:   Mon Jan 14 16:24:24 2013 +0300
+
+    some other message
+
+commit 898a0a9bc1a961b50d037be38f5f1772ac157cec
+Author: joerails <joerails2012@gmail.com>
+Date:   Mon Jan 14 15:51:25 2013 +0300
+
+    Initial commit
+
+commit efd6e064b2d6148428a8dee761dd7def71d1e229
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 12:39:13 2012 +0700
+
+    Removed last slash.
+
+commit 2b85b39471382a99da237c6142d26a96cc815555
+Author: Nguyen Duc Giang <ndgiang84@xiga.info>
+Date:   Mon Feb 13 05:00:28 2012 +0700
+
+    Update README.md
+
+commit b9df6da0955083a2c98a2051c37484a90c72b8bd
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 05:03:45 2012 +0700
+
+    Modified readme.
+
+commit 23dd1981d64fab6a105aef92da5d1168412b68eb
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 05:01:07 2012 +0700
+
+    Modified readme.
+
+commit 90824fd73607caca6bc7c058f504373e2cc17ea8
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 04:57:31 2012 +0700
+
+    Modified readme.
+
+commit e71b11a0158f6cbc44a7ecafac03032b1a332bac
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 04:46:50 2012 +0700
+
+    Added target blank.
+
+commit 4e6ea27f32e421afb2fa7822df87ad30c37571b7
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 04:40:01 2012 +0700
+
+    Added footer.
+
+commit fb383ec5dec39cab1facd0e8a6a301d10155c25e
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 04:34:08 2012 +0700
+
+    Done.
+
+commit b7fe58ec5c434d8da6408d2d4b81113483904aea
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Mon Feb 13 02:22:10 2012 +0700
+
+    Used whenever instead of delayed_job.
+
+commit 53fd387da15863da27f99fc618c1e080ea17ef45
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Sun Feb 12 23:53:14 2012 +0700
+
+    Installed jquery-rails, delayed_job, formtastic.
+
+commit a2013f32768df712d9d8555068e16d2039d214ea
+Author: Giang NGUYEN <ndgiang84@xiga.info>
+Date:   Sun Feb 12 23:43:41 2012 +0700
+
+    Initial commit.
